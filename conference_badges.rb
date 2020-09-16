@@ -1,3 +1,3 @@
 def badge_maker
-  when name 
-    
+  puts "Hello, my name is ___."
+end
